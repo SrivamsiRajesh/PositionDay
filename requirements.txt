@@ -1,0 +1,7 @@
+openai
+pocketsphinx
+gtts
+pygame
+pyfiglet
+rich
+InquirerPy
